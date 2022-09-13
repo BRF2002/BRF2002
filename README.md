@@ -3,9 +3,9 @@
 <!--
 **BRF2002/BRF2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---> 😄 Tenho uma grande apreciação pela tecnologia e como ela se transforma cada dia mais, tenho um grande objetivo de fazer parte da transformação digital, trazendo cada vez mais acesso à informação de maneira fácil, simples e objetiva!
+😄 Tenho uma grande apreciação pela tecnologia e como ela se transforma cada dia mais, tenho um grande objetivo de fazer parte da transformação digital, trazendo cada vez mais acesso à informação de maneira fácil, simples e objetiva!
 
---> 👌 Trabalho atualmente com marketing e gestão de lojas!
+👌 Trabalho atualmente com marketing e gestão de lojas!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
